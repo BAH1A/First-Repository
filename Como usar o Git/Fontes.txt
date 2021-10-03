@@ -1,0 +1,10 @@
+Arquivo desenvolvido com base no tutorial do Falvo, tema: Git e Github: Relembrando algumas coisinhas.
+Link: "https://web.digitalinnovation.one/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/e714fb1c-4990-4c47-99a5-d97703e40b4d"
+
+Alguns comandos:
+cd + nome da pasta = entra na pasta pelo terminal do git
+git clone + link do repositorio do github = É clonado uma pasta do repositorio do github no arquivos do pc
+git status = verifica como está a situação dentro da pasta
+git git add . = coloca as modificações como controle de versão local
+git commit -m "mensagem de atualização" = adiciona um comentario às modificações
+git push origin main = envia todos os commit para a nuvem
